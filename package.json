@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "",
-    "url": "git+https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator.git"
+    "url": "git+https://github.com/hieuwy/Team-Profile-Generator.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator",
+  "homepage": "https://github.com/hieuwy/Team-Profile-Generator",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
